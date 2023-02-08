@@ -1,0 +1,10 @@
+Todos los archivos de esta carpeta han sido escritos por Javier Villar Asensio a excepción
+de "datos.dat" que contiene 1000 números generados aleatoriamente para la práctica.
+
+La carpeta contiene un Makefile, con este se podrán crear directorios para cada uno de los
+modos de resolución de la práctica (toroide e hipercubo) con el archivo en código y compilación
+automática, para ello habrá que ejecutar el comando "make toroide/hipercubo"
+
+Para la ejecución de uno de los binarios se hará con el comando "make exe_toroide/hipercubo"
+
+El comando "make limpiar" eliminará todos los archivos y directorios a excepción del makefile y el pdf
